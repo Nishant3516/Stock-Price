@@ -5,6 +5,9 @@ import streamlit as st
 st.write("""
 # Simple Stock Price App
 
+By  Nishant Bansal
+
+
 """)
 
 option = st.selectbox(
